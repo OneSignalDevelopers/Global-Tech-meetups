@@ -19,8 +19,8 @@ Public list of tech meetup happening around the globe, locally and virtually!
 | [Flutter ES](https://twitter.com/flutter_es)                                     | Flutter    | Online   | Spain      | -            |
 | [VueJS Athens](https://twitter.com/VueJSAthens)                                  | Vue        | Online   | Athens     | -            |
 | [CFE Dev](https://twitter.com/cfe_dev)                                           | Web        | Online   | USA        | Winter Park  |
-| [Angular Chicago](ttps://twitter.com/AngularChicago)                             | Angular    | Online   | USA        | Chicago      |
-| [La Paz JS](ttps://twitter.com/LaPazJs)                                          | JS         | Online   | Bolivia    | La Paz       |
+| [Angular Chicago](https://twitter.com/AngularChicago)                            | Angular    | Online   | USA        | Chicago      |
+| [La Paz JS](https://twitter.com/LaPazJs)                                         | JS         | Online   | Bolivia    | La Paz       |
 | [Flutter Honudras](https://twitter.com/FlutterHN)                                | Flutter    | Online   | Honudras   | -            |
 | [Angular Hive](https://twitter.com/AngularHive)                                  | Angular    | Online   | USA        | Raleigh      |
 | [MedellinJS](https://twitter.com/MedellinJS)                                     | JS         | Online   | Colombia   | Medellin     |
