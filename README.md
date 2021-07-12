@@ -39,3 +39,7 @@ Public list of tech meetup happening around the globe, locally and virtually!
 | [ReactJS Chicago](https://twitter.com/ReactJSChicago)                            | React      | Online   | USA        | Chicago      |
 | [ChicacoJS](https://twitter.com/Chicago_JS)                                      | JS         | Online   | USA        | Chicago      |
 | [React Medellin](https://twitter.com/reactmedellin)                              | React      | Online   | Colombia   | Medellin     |
+
+## List of Tech Podcasts
+
+https://github.com/devpato/tech-podcasts-list
