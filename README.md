@@ -2,7 +2,7 @@
 
 Public list of tech meetup happening around the globe, locally and virtually!
 
-**_Feel free to keep adding meetups to the list._**
+**_Feel free to add meetups to the list._**
 
 | Twitter                                                                          | Technology | Location | Country    | City         |
 | -------------------------------------------------------------------------------- | ---------- | -------- | ---------- | ------------ |
