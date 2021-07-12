@@ -1,4 +1,4 @@
-# Tech-meetups
+# Global Tech Meetups
 
 Public list of tech meetup happening around the globe, locally and virtually!
 
