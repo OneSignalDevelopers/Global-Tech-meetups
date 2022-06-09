@@ -35,7 +35,7 @@ Public list of tech meetup happening around the globe, locally and virtually!
 | [Angular Dutch](https://twitter.com/AngularDutch)                                | Angular    | Online   | Nederlands | -            |
 | [Tech Meet 360](https://twitter.com/TechMeet360)                                 | Web        | Online   | India      | -            |
 | [Talklify](https://twitter.com/talklify)                                         | Web        | Online   | India      | -            |
-| [Angular Keralam](https://twitter.com/ng_keralam)                                | Angular    | Online   | India      | Keralam      |
+| [Angular Keralam](https://twitter.com/ng_keralam)                                | Angular    | Online   | India      | Kerala      |
 | [ReactJS Chicago](https://twitter.com/ReactJSChicago)                            | React      | Online   | USA        | Chicago      |
 | [ChicacoJS](https://twitter.com/Chicago_JS)                                      | JS         | Online   | USA        | Chicago      |
 | [React Medellin](https://twitter.com/reactmedellin)                              | React      | Online   | Colombia   | Medellin     |
