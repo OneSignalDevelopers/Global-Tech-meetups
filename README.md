@@ -30,6 +30,7 @@ Public list of tech meetup happening around the globe, locally and virtually!
 | [Flutter Ahmedabad](https://twitter.com/FlutterAHM)                              | Flutter    | Online   | India      | Ahmedabad    |
 | [Py MX](https://twitter.com/__PyMX__)                                            | Python     | Online   | Mexico     | -            |
 | [Gopher MX](https://twitter.com/gophersmx)                                       | Go         | Online   | Mexico     | -            |
+| [Golang Guadalajara](https://twitter.com/golang_gdl)                             | Go         | Online   | Mexico     | Guadalajara  |
 | [GDG Tegucigalpa](https://twitter.com/gdgtegus)                                  | Web        | Online   | Honduras   | Tegucigalpa  |
 | [Macao Tech](https://twitter.com/MacaoTech)                                      | Web        | Online   | Honudras   | -            |
 | [Angular Dutch](https://twitter.com/AngularDutch)                                | Angular    | Online   | Nederlands | -            |
